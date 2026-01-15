@@ -1,11 +1,9 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-
-public class WASDmouvment : MonoBehaviour
+public class Player_ex43 : MonoBehaviour
 {
-    public float speed = 5;
-
+    public float speed = 5.0f;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -16,7 +14,6 @@ public class WASDmouvment : MonoBehaviour
     void Update()
     {
         Vector3 direction = new Vector3(0, 0, 0);
-
         if (Keyboard.current.wKey.isPressed)
         {
             direction += new Vector3(0, 1, 0);
@@ -33,7 +30,7 @@ public class WASDmouvment : MonoBehaviour
         {
             direction += new Vector3(1, 0, 0);
         }
-
         transform.position = transform.position + direction * speed * Time.deltaTime;
     }
 }
+

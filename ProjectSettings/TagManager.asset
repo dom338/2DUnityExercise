@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Square1
   - Square2
+  - Enemy
   layers:
   - Default
   - TransparentFX

@@ -131,6 +131,93 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/EX41/EX_41_Scene.unity
     guid: 014b0c3d00cc35546a36b290315b07dc
+  - enabled: 1
+    path: Assets/EX42/EX_42_Scene.unity
+    guid: 35f9495e0cbe7464d9afccd586d9bcb8
+  - enabled: 1
+    path: Assets/EX43/EX_43_Scene.unity
+    guid: c8f818925881a3643943efbaf0e45c94
+  - enabled: 1
+    path: Assets/EX44/EX_44_Scene.unity
+    guid: 141e32a217a3b664eafaaaeac861c104
+  - enabled: 1
+    path: Assets/EX45/EX_45_Scene.unity
+    guid: 5781f00dc768bc34cbf60c763f184370
+  - enabled: 1
+    path: Assets/EX46/EX_46_Scene.unity
+    guid: b417ca5057565f242b91addb66b32fa0
+  - enabled: 1
+    path: Assets/EX47/EX_47_Scene.unity
+    guid: acff014649461c040a9f9de9ea6b0be4
+  - enabled: 1
+    path: Assets/EX48/EX_48_Scene.unity
+    guid: 7b45d98ec72deaf4bbdbf99b58c76270
+  - enabled: 1
+    path: Assets/EX49/EX_49_Scene.unity
+    guid: 5c7e917ad44ed92468eaa0d38a91937c
+  - enabled: 1
+    path: Assets/EX50/EX_50_Scene.unity
+    guid: 002339c435a87ef469b95b06d14402e1
+  - enabled: 1
+    path: Assets/EX51/EX_51_Scene.unity
+    guid: 8f6fe09f99397df449ecb256c4e20cbd
+  - enabled: 1
+    path: Assets/EX52/EX_52_Scene.unity
+    guid: b6c405d6df0071242804a230038bf5cb
+  - enabled: 1
+    path: Assets/EX53/EX_53_Scene.unity
+    guid: 6f28c26babeb5e949bdf0513bc519950
+  - enabled: 1
+    path: Assets/EX54/EX_54_Scene.unity
+    guid: 29abdd11fda41254eb50c9e771664956
+  - enabled: 1
+    path: Assets/EX55/EX_55_Scene.unity
+    guid: 766cf2e6fea23be4da80b921d3a592dc
+  - enabled: 1
+    path: Assets/EX56/EX_56_Scene.unity
+    guid: f46bbcc5d6df8514fbdc75a008806a9c
+  - enabled: 1
+    path: Assets/EX57/EX_57_Scene.unity
+    guid: 30ba012ea4685334db9cfe4994bb7bea
+  - enabled: 1
+    path: Assets/EX58/EX_58_Scene.unity
+    guid: 141ad303f9c091e4aa0c8bb9c91769c7
+  - enabled: 1
+    path: Assets/EX59/EX_59_Scene.unity
+    guid: 66a2adf1f4c63df45b4f2d5364ce09c4
+  - enabled: 1
+    path: Assets/EX60/EX_60_Scene.unity
+    guid: cd32f12778b251245ae2561c6b906f31
+  - enabled: 1
+    path: Assets/EX61/EX_61_Scene.unity
+    guid: 2d888ba2a2194064a9545e8d80ebeeb1
+  - enabled: 1
+    path: Assets/EX62/EX_62_Scene.unity
+    guid: 2b349d9dc6bf1b04aa604f9686238545
+  - enabled: 1
+    path: Assets/EX63/EX_63_Scene.unity
+    guid: 4cab03e2cd55ba340870c5b87461e99a
+  - enabled: 1
+    path: Assets/EX64/EX_64_Scene.unity
+    guid: 9b56cd8c9a66c0e4183649b7e0b1a2dc
+  - enabled: 1
+    path: Assets/EX65/EX_65_Scene.unity
+    guid: ccf66651f2b0c454d80bb3b45aaeda92
+  - enabled: 1
+    path: Assets/EX66/EX_66_Scene_Blue.unity
+    guid: 87f5bdc6cc5854c44929009aee294a02
+  - enabled: 1
+    path: Assets/EX66/EX_66_Scene_Green.unity
+    guid: dc40b78bd006654439d56a61affd3b94
+  - enabled: 1
+    path: Assets/EX66/EX_66_Scene_Red.unity
+    guid: 6aef19dfa8ffa0641aeb6455c582b479
+  - enabled: 1
+    path: Assets/EX67/EX_67_SceneBlue.unity
+    guid: 525a62d5c6406bb449e2da43f9f22f84
+  - enabled: 1
+    path: Assets/EX67/EX_67_SceneRed.unity
+    guid: b52ff28fe0fb4d44f84683c5d4c7d18c
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 3590b91b4603b465dbb4216d601bff33, type: 3}
   m_UseUCBPForAssetBundles: 0
